@@ -28,7 +28,7 @@ var money = 10000;
 
 
 /** Problem -02 ( Cycle or Laptop ) */
-var money = 45000 ; //45000 , 9999 , 10000 , 60000
+var money = 10000 ; //45000 , 9999 , 10000 , 60000
 //write your code here
 
   if ( money >= 25000){
